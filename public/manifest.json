@@ -1,0 +1,27 @@
+{
+  "short_name": "Pinteer ID",
+  "name": "Pinteer ID PWA",
+  "icons": [
+    {
+      "src": "pinteer Logo64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "pinteer Logo192px.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pinteer Logo512px.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0C2140",
+  "background_color": "#0C2140"
+}
